@@ -74,7 +74,7 @@
                         <hr>
                         <input type="hidden" name="hdnKey" value="<?php echo $_GET['k']; ?>">
                         <h3 class="title">Select Size:</h3>
-                        <input type="radio" name="radSize" id="radXS" value="7" checked>
+                        <input type="radio" name="radSize" id="radXS" value="7">
                         <label for="radXS" class="pr-3">US 7</label>
                         <input type="radio" name="radSize" id="radSM" value="7.5">
                         <label for="radSM" class="pr-3">US 7.5</label>
